@@ -3,6 +3,12 @@ background-color: #000000;
 color:white;
 }
 
+section{
+    background: rgb(233, 16, 88)
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
 h1 {
     color: rgb(0,255,0)
     
