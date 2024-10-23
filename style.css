@@ -11,6 +11,10 @@ section{
     justify-content: center;
 }
 
+div{
+    margin-right: 20px;
+}
+
 h1 {
     color: rgb(0,255,0)
     
