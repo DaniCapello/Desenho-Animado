@@ -2,6 +2,11 @@ body{
 background-color: #624c4c;
 color:white;
 }
+header {
+    color: azure;
+    font-size: 30px;
+    text-transform: uppercase;
+}
 
 section{
     background: rgb(233,16,88);
