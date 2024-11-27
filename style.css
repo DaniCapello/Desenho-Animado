@@ -26,6 +26,7 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    color:chartreuse;
 }
 .categoria-videos {
     display: flex;
